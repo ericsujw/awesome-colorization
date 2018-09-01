@@ -18,11 +18,13 @@
 - Pixcolor: pixel recursive colorization (2017), Sergio Guadarrama et al. [[pdf]](https://arxiv.org/pdf/1705.07208.pdf)
 - Probabilistic Image Colorization (2017), Amelie Royer et al. [[pdf]](https://arxiv.org/pdf/1705.04258.pdf)
 - Real-Time User-Guided Image Colorization with Learned Deep Priors (2017), Richard Zhang et al. [[pdf]](https://arxiv.org/pdf/1705.02999.pdf)
+- Interactive Deep Colorization with Simulaneous Global and Local Inputs (2018), Yi Xiao et al. [[pdf]](https://arxiv.org/pdf/1801.09083.pdf)
 
 ## Unsupervised / Generative Models
 
 - Image-to-Image Translation with Conditional Adversarial Networks (2016), Phillip Isola et al. [[pdf]](https://arxiv.org/pdf/1611.07004)
 - It Takes (Only) Two: Adversarial Generator-Encoder Networks (2017), Dmitry Ulyanov et al. [[pdf]](http://sites.skoltech.ru/app/data/uploads/sites/25/2017/06/AGE.pdf)
+- User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks (2018), Yuanzheng Ci et al. [[pdf]](https://arxiv.org/pdf/1808.03240.pdf)
 
 ## Software / Website
 
